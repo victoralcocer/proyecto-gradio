@@ -6,4 +6,14 @@ Pasos a Seguir
 
 Python:
 
-1. En Visual 
+1. Crear proyecto en entorno de desarrollo
+2. Instalar libreria Gradio:
+  `pip install gradio`
+
+4. Importacion de libreria: 
+   import gradio as gr
+
+
+
+
+# Langchain
