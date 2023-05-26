@@ -17,5 +17,15 @@ Python:
 # 🦜️🔗 LangChain
 [Langchain](https://python.langchain.com/en/latest/index.html)
 
+Pasos a seguir:
+
+Python:
+
+1. Crear pryecto en Python.
+2. Instalar las siguientes librerias: `pip install gradio, openai, langchain`
+3. Importar librerias: `import openai`, `from langchain import OpenAI, ConversationChain`
+4. Solicitar clave API en [OpenAI](https://openai.com/)
+5. Crear una funcion de deneracion de texto.
+6. Crear input con entrada y salida de texto.
 
 
