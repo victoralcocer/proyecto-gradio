@@ -1,8 +1,6 @@
 # Gradio
 
-[![Python package](https://www.python.org/doc/)]
-[![Gradio package](https://gradio.app/)]
-[![Python package](https://img.shields.io/pypi/v/semantic-kernel)](https://pypi.org/project/semantic-kernel/)
+[![gradio-ui](https://github.com/gradio-app/gradio/actions/workflows/ui.yml/badge.svg)](https://github.com/gradio-app/gradio/actions/workflows/ui.yml)  
 
 Pasos a Seguir
 
